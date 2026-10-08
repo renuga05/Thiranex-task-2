@@ -49,3 +49,4 @@ Possible improvements
 CVE lookup using the NVD API
 HTML or JSON report output
 UDP scanning and SSL/TLS certificate checks
+
